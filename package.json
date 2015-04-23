@@ -19,9 +19,11 @@
   "license": "MIT",
   "private": true,
   "devDependencies": {
-    "chai": "^1.10.0",
     "mocha": "^2.1.0",
     "mochify": "^2.1.1",
-    "sinon": "^1.12.2"
+    "promises-aplus-tests": "^2.1.0"
+  },
+  "dependencies": {
+    "promiz": "^1.0.3"
   }
 }
